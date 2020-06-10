@@ -19,6 +19,10 @@ $- sudo ./SocialVenom.sh
 ```
 Now you can begin with tool and use multiple platforms to BruteForce them.
 
-#Developer
+# Developer
 * [Instagram](https://www.instagram.com/qirit0_0) - Qirit0
 * [Telegram](https://t.me/dailyhijacks) - DailyHijacks
+
+<br>
+<p align="center">Made with ❤️ By <a href="www.github.com/die-dimitry">Qirit0</a></p>
+<p align="center" style="font-size: 8px">version 2.0</p>
